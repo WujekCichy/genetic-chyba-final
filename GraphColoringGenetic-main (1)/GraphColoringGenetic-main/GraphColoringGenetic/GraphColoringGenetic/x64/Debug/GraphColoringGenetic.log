@@ -1,0 +1,3 @@
+﻿  GraphColoringGenetic.cpp
+C:\Users\kubus\Desktop\GraphColoringGenetic-main (1)\GraphColoringGenetic-main\GraphColoringGenetic\GraphColoringGenetic\GraphColoringGenetic.cpp(121,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  GraphColoringGenetic.vcxproj -> C:\Users\kubus\Desktop\GraphColoringGenetic-main (1)\GraphColoringGenetic-main\GraphColoringGenetic\x64\Debug\GraphColoringGenetic.exe
